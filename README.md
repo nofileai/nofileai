@@ -1,6 +1,7 @@
 ### Hi there 👋
-
-<!--
+“没有文件”是一个类似“无代码”的编程方式，我正在创造它，虽然已经开发了很久，但此路漫漫！
+20230709
+ 
 **nofileai/nofileai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+ 
